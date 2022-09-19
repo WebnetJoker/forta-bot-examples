@@ -15,7 +15,6 @@ This agent detects when the Poly Network bookkeeper changes, or when a Poly asse
   - Severity is always set to "high"
   - Type is always set to "suspicious"
   - Metadata fields:
-    - "oldPkBytes" - the previous public keys in encoded bytes
     - "newPkBytes" - the updated public keys in encoded bytes
 - POLY-2
   - Fired when any of the Poly assets balance falls by more than 50%
