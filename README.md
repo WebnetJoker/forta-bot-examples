@@ -1,4 +1,4 @@
-# Forta Detection Bot Examples
+# Forta Detection Bot Examples.
 
 These examples demonstrate the possible use cases of Forta detection bots with little to no configuration.
 
